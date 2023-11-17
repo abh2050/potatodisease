@@ -1,4 +1,4 @@
-
+![Image Classification Project](https://plantura.garden/uk/wp-content/uploads/sites/2/2021/10/potato-diseases.jpg)
 # TensorFlow Image Classification Project
 
 This repository contains code for building and training an image classification model using TensorFlow. It demonstrates the process of loading a dataset, preprocessing images, building a convolutional neural network, and evaluating its performance.
