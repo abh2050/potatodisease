@@ -1,4 +1,16 @@
 ![Image Classification Project](https://plantura.garden/uk/wp-content/uploads/sites/2/2021/10/potato-diseases.jpg)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white&link=https://www.python.org/)[](https://www.python.org/)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tensorflow&logoColor=white&link=https://www.tensorflow.org/)
+![Keras](https://img.shields.io/badge/Keras-2.x-red?style=flat&logo=keras&logoColor=white&link=https://keras.io/)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?style=flat&logo=numpy&logoColor=white&link=https://numpy.org/)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue?style=flat&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue?style=flat&logo=matplotlib&logoColor=white&link=https://matplotlib.org/)
+![Image Data Preprocessing](https://img.shields.io/badge/Image_Data_Preprocessing-TensorFlow-yellow?style=flat&link=https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image_dataset_from_directory)
+![CNN](https://img.shields.io/badge/CNN-Convolutional_Neural_Networks-purple?style=flat&link=https://en.wikipedia.org/wiki/Convolutional_neural_network)
+
+
+
 # TensorFlow Image Classification Project
 
 This repository contains code for building and training an image classification model using TensorFlow. It demonstrates the process of loading a dataset, preprocessing images, building a convolutional neural network, and evaluating its performance.
